@@ -1,0 +1,111 @@
+#bo1 { 
+    background-color: #d2e8e6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    background-image: url("pexels-jplenio-1103970.jpg");
+    
+}
+html, body {
+    overflow: hidden;
+    height: 100%; /* Ensure the content does not extend beyond the viewport */
+  }
+#for {
+    background-color: #f1fcfb;
+    opacity: 0.9;
+    width: 550px;
+    height: 391px;
+    text-align: center;
+    margin-top: 18px;
+    margin-left: 31px;
+    margin-bottom: 100px;
+    position: absolute;
+    border-radius: 20px;
+    transition: 1s ease all;
+}
+#for:hover{
+    transform: scale(1.1);
+}
+
+#re {
+    margin-bottom: 50px;
+}
+#fil,#fil2 {
+    border: none;
+}
+#re {
+    padding-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+#form2,
+#form3 {
+    margin: 6px;
+    padding: 13px;
+    border-radius: 10px;
+    background-color: azure;
+    width: 471px;
+    box-shadow: 0px 4px 10px rgb(1 50 80);
+    outline: none; 
+    transition: border-color 0.3s; 
+    border: 2px solid #fcfbfb;
+}
+#fil {
+    border: 2px solid #ccc;
+    color: rgb(132, 76, 8);
+    height: 20px;
+    border: none;
+    margin: 20px auto;
+}
+#fil2 label {
+    margin-right: 10px;
+    font-size: 16px;
+    color: #333;
+}
+#fil2 {
+    color: rgb(132, 76, 8);
+}
+.but {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    margin-top: 75px;
+    padding: 13px;
+    border-radius: 10px;
+    background-color: rgb(38 85 105);
+    border: none;
+    box-shadow: 1px;
+    width: 471px;
+    box-shadow: 0px 4px 10px rgb(1 50 80);
+    color: #b3d0dc;
+}
+a{
+    color: rgb(81, 81, 81);
+}
+a:hover {
+    color: cadetblue;
+}
+h5 {
+    margin-top: 5px;
+}
+#perant {
+
+    width: 590px;
+    height: 691px;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 153px;
+    margin-bottom: 100px;
+    position: relative;
+    border-radius: 20px;
+}
+#for img {
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    opacity: 1.8;
+}
+.icon {
+    margin-left: -34px;
+    position: absolute;
+    margin-top: 12px;
+}
